@@ -5,6 +5,7 @@
 - 📫 Contate-me no email: marianorichard96@gmail.com
 - 😄 Pronouns: ele/dele
 
+<img src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966">
 <div align="center">
   <a href="https://github.com/richardmariano">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=richardmariano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
